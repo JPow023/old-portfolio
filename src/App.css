@@ -1,0 +1,13 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+
+.container-fluid {
+  padding: 0px;
+  margin: 0px;
+}
+
+body {
+  background-color: rgb(163, 196, 188);
+}
