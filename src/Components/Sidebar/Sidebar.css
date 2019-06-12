@@ -13,13 +13,26 @@
     height: 50px;
 
     position: fixed;
+
+    transition: all .2s ease-in-out;
 }
+
+#home:hover {
+    transform: scale(1.2);
+}
+
 
 #pencil {
     height: 40px;
     position: fixed;
     margin-top: 105px;
     margin-left: 6.5px;
+
+    transition: all .2s ease-in-out;
+}
+
+#pencil:hover {
+    transform: scale(1.2);
 }
 
 #tools {
@@ -27,6 +40,12 @@
     position: fixed;
     margin-left: 9px;
     margin-top: 160px;
+
+    transition: all .2s ease-in-out;
+}
+
+#tools:hover {
+    transform: scale(1.2);
 }
 
 #laptop {
@@ -34,6 +53,11 @@
     height: 40px;
     margin-top: 200px;
     margin-left: 5px;
+    transition: all .2s ease-in-out;
+}
+
+#laptop:hover {
+    transform: scale(1.2);
 }
 
 #person {
@@ -42,4 +66,10 @@
 
     margin-top: 240px;
     margin-left: -3.5px;
+
+    transition: all .2s ease-in-out;
+}
+
+#person:hover {
+    transform: scale(1.2);
 }
