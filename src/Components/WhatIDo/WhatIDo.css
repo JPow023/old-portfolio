@@ -36,6 +36,12 @@
     padding: 20px;
 
     box-shadow: 0px 5px 10px rgba(65, 60, 88, 0.25);
+
+    transition: all .2s ease-in-out;
+}
+
+.one-two:hover {
+    transform: scale(1.1);
 }
 
 .one-three {
