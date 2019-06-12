@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f2ae3aaa.chunk.css",
+    "main.js": "/portfolio/static/js/main.54e101bc.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.54e101bc.chunk.js.map",
+    "runtime~main.js": "/portfolio/static/js/runtime~main.f308c8e6.js",
+    "runtime~main.js.map": "/portfolio/static/js/runtime~main.f308c8e6.js.map",
+    "static/js/2.3310f33a.chunk.js": "/portfolio/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/portfolio/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.0f616c2d62d84c503668288fa43695dd.js": "/portfolio/precache-manifest.0f616c2d62d84c503668288fa43695dd.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/main.f2ae3aaa.chunk.css.map": "/portfolio/static/css/main.f2ae3aaa.chunk.css.map",
+    "static/media/action-sports.png": "/portfolio/static/media/action-sports.b4a882a7.png",
+    "static/media/css.png": "/portfolio/static/media/css.8dba17dc.png",
+    "static/media/express.png": "/portfolio/static/media/express.d638bd34.png",
+    "static/media/html.png": "/portfolio/static/media/html.9f38d41e.png",
+    "static/media/mongodb.png": "/portfolio/static/media/mongodb.d5378859.png",
+    "static/media/mysql.png": "/portfolio/static/media/mysql.4ccd3dff.png",
+    "static/media/pencil-and-paintbrush.png": "/portfolio/static/media/pencil-and-paintbrush.37dc1e87.png",
+    "static/media/person-icon.png": "/portfolio/static/media/person-icon.c30f892e.png",
+    "static/media/photoshop.png": "/portfolio/static/media/photoshop.57ee8189.png",
+    "static/media/CurrentWork.css": "/portfolio/static/media/qbkls.d808fef0.png",
+    "static/media/react.png": "/portfolio/static/media/react.e0d2cc66.png",
+    "static/media/rocky-grill.png": "/portfolio/static/media/rocky-grill.13432b33.png",
+    "static/media/TechSkills.css": "/portfolio/static/media/stripes-light.832e21f3.png",
+    "static/media/wvn.png": "/portfolio/static/media/wvn.270acdef.png"
+  }
+}
