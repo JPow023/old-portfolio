@@ -12,32 +12,19 @@ const CurrentWork = () => {
                     <div class="col-4 current-one">
                         <div class="current-one-two">
                             <img class="rg" src={(require('./Images/rocky-grill.png'))} />
-
-                            <ul>
-                                <li>Blah Blah Blah</li>
-                                <li>Blah Blah Blah</li>
-                                <li>Blah Blah Blah</li>
-                            </ul>
+                                Freelance website for The Rocky Grill (In Progress)
                         </div>
                     </div>
                     <div class="col-4 current-two">
                     <div class="current-one-two">
                             <img class="rg" src={(require('./Images/action-sports.png'))} />
-                            <ul>
-                                <li>Blah Blah Blah</li>
-                                <li>Blah Blah Blah</li>
-                                <li>Blah Blah Blah</li>
-                            </ul>
+                                Freelance website for Action Sports and Gaming
                         </div>
                     </div>
                     <div class="col-4 current-three">
                     <div class="current-one-two">
                             <img class="rg" src={(require('./Images/wvn.png'))} />
-                            <ul>
-                                <li>Blah Blah Blah</li>
-                                <li>Blah Blah Blah</li>
-                                <li>Blah Blah Blah</li>
-                            </ul>
+                                Rendering for Woodside Village's new home page
                         </div>
                     </div>
                 </div>
